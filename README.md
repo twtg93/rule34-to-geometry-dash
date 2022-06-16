@@ -7,3 +7,5 @@ Install node.js online.
 Install my packages with the npm install command.
 Drag your image to the same folder the program is in.
 Run npm start.
+
+# Don't be stupid and use a VPN and a Alt Account
