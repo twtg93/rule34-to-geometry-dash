@@ -1,5 +1,5 @@
 try { require('jimp') }
-catch(e) { return console.log("Please install packages with npm install") }
+catch(e) { return console.log("Please install packages with setup.bat") }
 
 const Jimp = require('jimp')
 const zlib = require('zlib')
